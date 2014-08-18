@@ -6,6 +6,8 @@ Seaport client and server combined with automatic failover
 npm install seapeer
 ```
 
+[![build status](http://img.shields.io/travis/e-conomic/seapeer.svg?style=flat)](http://travis-ci.org/e-conomic/seapeer)
+
 This module allows you to run seaport without explicitly starting a seaport server.
 Instead one of the clients accessing seaport will become the server. If that client dies
 another one will take his place
