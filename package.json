@@ -1,0 +1,25 @@
+{
+  "name": "seapeer",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e-conomic/seapeer"
+  },
+  "description": "seaport client and server combined with automatic failover",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "Mathias Buus",
+  "license": "MIT",
+  "dependencies": {
+    "seaport": "^2.0.9"
+  },
+  "bugs": {
+    "url": "https://github.com/e-conomic/seapeer/issues"
+  },
+  "homepage": "https://github.com/e-conomic/seapeer",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
+}
