@@ -1,6 +1,6 @@
 # seapeer
 
-Seaport client and server combined with automatic failover
+[Seaport](https://github.com/substack/seaport) client and server combined with automatic failover
 
 ```
 npm install seapeer
