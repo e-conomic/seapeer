@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/e-conomic/seapeer"
   },
-  "description": "seaport client and server combined with automatic failover",
+  "description": "Seaport client and server combined with automatic failover",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
